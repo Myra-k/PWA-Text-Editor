@@ -33,6 +33,7 @@ To use the application take a look at the deployed page on heroku below in [Revi
 
 * URL Of Github Repository (https://github.com/Myra-k/PWA-Text-Editor.git)
 
-## Licence
+
+## Licence
 
 N/A
