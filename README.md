@@ -29,7 +29,7 @@ To use the application take a look at the deployed page on heroku below in [Revi
 
 ## Review
 
-* Heroku Deployed Application (https://jate--text--editor-b639e4e42d24.herokuapp.com/)
+* Heroku Deployed Application (https://jate--text--editor-d5d8bf5bd86c.herokuapp.com/)
 
 * URL Of Github Repository (https://github.com/Myra-k/PWA-Text-Editor.git)
 
